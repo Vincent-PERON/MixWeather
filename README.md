@@ -1,11 +1,9 @@
-#  Ti-Weather
-
-![](https://www.zupimages.net/up/22/26/csah.png)
+#  Mix Weather
 
 
 ##  Présentation
 
-Le Ti-Weather est une application web développée en HTML/CSS/JS
+Mix Weather est une application web développée en HTML/CSS/JS
 Elle permet d’afficher la météo du jour et les prévisions sur 5 jours une fois la ville rentrée dans la barre d’adresse.
 
 ##  Démonstration
