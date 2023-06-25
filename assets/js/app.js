@@ -4,9 +4,6 @@ let cityname = params.get("ville");
 var city = cityname;
 
 
-// Affiche le nom de la ville dans l'entête
-let cityheader = document.querySelector(".agence");
-cityheader.textContent = city;
 
 // Affiche la date et l'heure
 function pause(ms) 
